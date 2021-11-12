@@ -3,6 +3,8 @@
 Integrates the [`git-forest`](https://github.com/TamaMcGlinn/git-forest) commandline tool to show a prettier unicode
 git log inside of [vim-flog](https://github.com/rbong/vim-flog).
 
+![Screenshot on imgur](https://i.imgur.com/VYRzJMv.png)
+
 # Installation
 
 Install using your favourite plugin manager, e.g.
