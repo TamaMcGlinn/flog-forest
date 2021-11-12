@@ -8,7 +8,6 @@ git log inside of [vim-flog](https://github.com/rbong/vim-flog).
 Install using your favourite plugin manager, e.g.
 
 ```
-Plug 'tklebanoff/vim-AnsiEsc'
 Plug 'TamaMcGlinn/vim-flog-forest'
 ```
 
