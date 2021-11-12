@@ -10,11 +10,11 @@ git log inside of [vim-flog](https://github.com/rbong/vim-flog).
 Install using your favourite plugin manager, e.g.
 
 ```
-Plug 'TamaMcGlinn/vim-flog-forest'
+Plug 'TamaMcGlinn/flog-forest'
 ```
 
 I have more plugins that extend vim-flog.
-For a full list, see the install instructions for [vim-flogmenu](www.github.com/TamaMcGlinn/vim-flogmenu).
+For a full list, see the install instructions for [flog-menu](www.github.com/TamaMcGlinn/flog-menu).
 
 # History
 
