@@ -11,6 +11,9 @@ Install using your favourite plugin manager, e.g.
 Plug 'TamaMcGlinn/vim-flog-forest'
 ```
 
+I have more plugins that extend vim-flog.
+For a full list, see the install instructions for [vim-flogmenu](www.github.com/TamaMcGlinn/vim-flogmenu).
+
 # History
 
 See [this issue](https://github.com/rbong/vim-flog/issues/49) where the tool was first found and discussed for use in vim-flog,
